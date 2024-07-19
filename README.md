@@ -24,10 +24,7 @@ This project implements a vehicle detection system using computer vision and mac
 ```bash
   cd openCV_VehicleDetection
 ```
-3)Install the required dependencies
-```bash
-pip install -r requirements.txt
-```
+
     
 ## Result
 The results of the detection are saved in the output directory, with bounding boxes drawn around detected vehicles in images and videos.
